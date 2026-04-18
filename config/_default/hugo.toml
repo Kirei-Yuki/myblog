@@ -1,5 +1,5 @@
 theme = "hugo-theme-stack"
-baseURL                = "https://demo.stack.cai.im/"
+baseURL                = "https://shiokirei.dpdns.org/"
 languageCode           = "en"
 title                  = "乃兮Yuki的blog"
 # Theme i18n support
