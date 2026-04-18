@@ -1,0 +1,21 @@
+theme = "hugo-theme-stack"
+baseURL                = "https://demo.stack.cai.im/"
+languageCode           = "en"
+title                  = "乃兮Yuki的blog"
+# Theme i18n support
+# See i18n folder for available languages
+defaultContentLanguage = "en"
+# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
+# This will make .Summary and .WordCount behave correctly
+hasCJKLanguage         = true
+
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
+[services.disqus]
+    shortname = "hugo-theme-stack"

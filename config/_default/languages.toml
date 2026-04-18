@@ -1,0 +1,20 @@
+[en]
+    languageName = "简体中文"
+    title        = "乃兮Yuki的blog"
+    weight       = 1
+    [en.params.sidebar]
+        subtitle = "欢迎来到Yuki的博客"
+
+[zh]
+    languageName = "简体中文"
+    title        = "乃兮Yuki的blog"
+    weight       = 2
+    [zh.params.sidebar]
+        subtitle = "欢迎来到Yuki的博客"
+
+[zh-cn]
+    languageName = "简体中文"
+    title        = "乃兮Yuki的blog"
+    weight       = 3
+    [zh-cn.params.sidebar]
+        subtitle = "欢迎来到Yuki的博客"
